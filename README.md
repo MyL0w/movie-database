@@ -31,7 +31,7 @@ Follow these steps to set up and run the project on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-database-react.git
+   git clone https://github.com/MyL0w/movie-database.git
 
 2. Navigate to the project directory:
     ### `cd movie-database`
